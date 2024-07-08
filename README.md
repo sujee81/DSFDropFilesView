@@ -4,7 +4,7 @@
 
 A simple view class for dropping files onto. Supporting Swift, SwiftUI and Objective-C.
 
-![](https://img.shields.io/github/v/tag/dagronf/DSFDropFilesView) ![](https://img.shields.io/badge/macOS-10.11+-red) ![](https://img.shields.io/badge/Swift-5.0-orange.svg)
+![](https://img.shields.io/github/v/tag/dagronf/DSFDropFilesView) ![](https://img.shields.io/badge/macOS-10.14+-red) ![](https://img.shields.io/badge/Swift-5.0-orange.svg)
 ![](https://img.shields.io/badge/License-MIT-lightgrey) [![](https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat)](https://swift.org/package-manager)
 
 

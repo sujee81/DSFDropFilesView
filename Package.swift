@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
 	name: "DSFDropFilesView",
 	platforms: [
-		.macOS(.v10_11)
+		.macOS(.v10_14)
 	],
 	products: [
 		.library(name: "DSFDropFilesView", targets: ["DSFDropFilesView"]),
